@@ -1,0 +1,28 @@
+{
+  "name": "team-profle-genr",
+  "version": "1.0.0",
+  "description": "TP app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avabjwill/Team-Profle-Genr.git"
+  },
+  "keywords": [
+    "Profile",
+    "generator",
+    "user",
+    "userstory"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avabjwill/Team-Profle-Genr/issues"
+  },
+  "homepage": "https://github.com/Avabjwill/Team-Profle-Genr#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
